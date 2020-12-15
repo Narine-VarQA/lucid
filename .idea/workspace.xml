@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d6d9fb0-744f-4616-9337-549c4861c5c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1h3FUiLUqzDsLVX3uuEfU8GJ9pH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Mher\lucid\img" />
+      <recent name="C:\Mher\lucid\img\section_two" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Mher\lucid" />
+      <recent name="C:\Mher\lucid\img" />
+      <recent name="C:\Mher\lucid\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d6d9fb0-744f-4616-9337-549c4861c5c6" name="Default Changelist" comment="" />
+      <created>1599231886424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599231886424</updated>
+      <workItem from="1599231887579" duration="1441000" />
+      <workItem from="1599234002319" duration="953000" />
+      <workItem from="1599243299251" duration="9212000" />
+      <workItem from="1599289807004" duration="22094000" />
+      <workItem from="1599315312880" duration="18849000" />
+      <workItem from="1599372417941" duration="4512000" />
+      <workItem from="1599379728590" duration="25908000" />
+      <workItem from="1599462470998" duration="5708000" />
+      <workItem from="1599478656917" duration="59000" />
+      <workItem from="1599482459574" duration="64000" />
+      <workItem from="1599490843991" duration="535000" />
+      <workItem from="1599495448479" duration="474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Inspections" timestamp="1599299488062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1599299488062" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599469756663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599469756663" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1599406961846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599406961846" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1599400089163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599400089163" />
+  </component>
+</project>

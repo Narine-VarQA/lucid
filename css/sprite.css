@@ -1,0 +1,77 @@
+.bg-linkedin {
+    width: 18px; height: 18px;
+    background: url('../img/css_sprites.png') -10px -223px;
+}
+.bg-facebook {
+    width: 10px; height: 18px;
+    background: url('../img/css_sprites.png') -10px -261px;
+}
+.bg-dribbble {
+    width: 18px; height: 18px;
+    background: url('../img/css_sprites.png') -10px -299px;
+}
+.bg-behance {
+    width: 19px; height: 13px;
+    background: url('../img/css_sprites.png') -10px -10px;
+}
+.bg-twitter {
+    width: 18px; height: 14px;
+    background: url('../img/css_sprites.png') -10px -43px;
+}
+.bg-Envelope {
+    width: 32px; height: 22px;
+    background: url('../img/css_sprites.png') -10px -337px;
+}
+.bg-Pointer {
+    width: 24px; height: 32px;
+    background: url('../img/css_sprites.png') -10px -425px;
+}
+.bg-Mouse {
+    width: 10px; height: 17px;
+    background: url('../img/css_sprites.png') -10px -149px;
+}
+.bg-Speedometer {
+    width: 16px; height: 16px;
+    background: url('../img/css_sprites.png') -10px -77px;
+}
+.bg-Energy {
+    width: 11px; height: 17px;
+    background: url('../img/css_sprites.png') -10px -186px;
+}
+.bg-Cup {
+    width: 16px; height: 16px;
+    background: url('../img/css_sprites.png') -10px -113px;
+}
+.bg-Phone {
+    width: 18px; height: 32px;
+    background: url('../img/css_sprites.png') -10px -477px;
+}
+.bg-Like {
+    width: 33px; height: 32px;
+    background: url('../img/css_sprites.png') -10px -529px;
+}
+.bg-Settings {
+    width: 32px; height: 32px;
+    background: url('../img/css_sprites.png') -10px -581px;
+}
+.bg-Monitor {
+    width: 32px; height: 26px;
+    background: url('../img/css_sprites.png') -10px -379px;
+}
+.bg-facebook,
+.bg-dribbble,
+.bg-linkedin,
+.bg-behance,
+.bg-twitter,
+.bg-Envelope,
+.bg-Pointer,
+.bg-Mouse,
+.bg-Speedometer,
+.bg-Energy,
+.bg-Cup,
+.bg-Phone,
+.bg-Like,
+.bg-Settings,
+.bg-Monitor{
+    display: inline-block;
+}
